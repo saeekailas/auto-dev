@@ -1,4 +1,4 @@
-## Core Rules
+## Core Rule
 
 - **Kotlin Multiplatform**: Always consider all platforms: JS, WASM, Desktop JVM, Android, iOS
 - **Build & Test**: Always run build and tests before completing tasks
